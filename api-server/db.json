@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "hobbies": [
+        "dancing",
+        "Travelling"
+      ],
+      "fullname": "shivani",
+      "address": "marketyard",
+      "birthdate": "2020-12-19",
+      "gender": "female",
+      "college": "Pune University",
+      "userId": "d8fcd652-19f6-4b24-990e-0ecd12476287",
+      "id": 1
+    }
+  ]
+}
